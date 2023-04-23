@@ -2,6 +2,8 @@
 
 <div align="center"> <img src="https://metrics.lecoq.io/insights/lijinshuai21"> </div>
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+
 
 <!--
 **lijinshuai21/lijinshuai21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
