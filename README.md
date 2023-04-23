@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div align="center"> <img src="https://metrics.lecoq.io/insights/lijinshuai21"> </div>
+
+
 <!--
 **lijinshuai21/lijinshuai21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
